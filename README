@@ -1,0 +1,4 @@
+Wordle solver is a simple program that emulates the game of Wordle.
+
+It knows how to play the game, provide viable word options, and iteratively
+solve the game (given a starting word and the final answer)
